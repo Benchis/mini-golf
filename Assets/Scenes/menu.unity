@@ -654,6 +654,7 @@ GameObject:
   - component: {fileID: 1671163785}
   - component: {fileID: 1671163784}
   - component: {fileID: 1671163783}
+  - component: {fileID: 1671163786}
   m_Layer: 0
   m_Name: credits
   m_TagString: Credits
@@ -773,6 +774,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1671163786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1671163782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b263880710e1e8429e30de1d8b23ede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1826841026
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,6 +797,7 @@ GameObject:
   - component: {fileID: 1826841029}
   - component: {fileID: 1826841028}
   - component: {fileID: 1826841027}
+  - component: {fileID: 1826841030}
   m_Layer: 0
   m_Name: play
   m_TagString: Play
@@ -903,6 +917,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1826841030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1826841026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c735d478e1f76ee47b24108e409f58b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Level: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
