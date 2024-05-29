@@ -1,17 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: b271834574a32164198538108f9e668e
+guid: 0d939d7227ab1e241a0aba6e13633dd5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
-=======
-guid: 088c908a840167a4b9c1ea50ced52a52
-TextureImporter:
-  internalIDToNameTable: []
-  externalObjects: {}
-  serializedVersion: 12
->>>>>>> Deimis-Dauginis
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
